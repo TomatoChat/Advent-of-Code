@@ -1,6 +1,6 @@
 # Advent of Code
 
-This repository contains my solutions to the Advent of Code challenges, all implemented in Python.
+This repository contains my solutions to the [Advent of Code]('https://adventofcode.com/') challenges, all implemented in Python.
 
 ## 2024
 Each challenge is organized into a dedicated folder named after the challenge number and title. Inside each folder, you'll find two Python files:
